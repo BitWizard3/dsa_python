@@ -69,6 +69,7 @@ my_string = "Hello, World!"
 ---
 ## Some useful string methods:
 - Below are some useful methods that will come in handy when dealing with lists in python:
+  
 | **Method**                    | **Description**                        | **Example**                                          |
 |------------------------------|----------------------------------------|------------------------------------------------------|
 | `split()`                    | Splits into list by delimiter          | `"a,b,c".split(',') → ['a','b','c']`                 |
